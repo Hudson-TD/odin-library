@@ -7,6 +7,48 @@ const myLibrary = [
     pages: "155",
     status: "Unread",
   },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
+  {
+    title: "Sunrise Paradise",
+    author: "Skinny Legged Man",
+    pages: "155",
+    status: "Unread",
+  },
 ];
 
 function Book(title, author, pages, status) {
