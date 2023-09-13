@@ -19,8 +19,23 @@
           <input class="form-input-field" type="text" id="author" />
           <label class="form-label" for="length">Length</label>
           <input class="form-input-field" type="text" id="length" />
-          <label class="form-label" for="author">Author</label>
-          <input class="form-input-field" type="text" id="author" />
+          <label class="form-label" for="status">Status</label>
+          <input
+            class="radio"
+            type="radio"
+            name="book-status"
+            id="read-status"
+            value="Read"
+          />
+          <label for="read-status">I've read this book</label>
+          <input
+            class="radio-input-field"
+            type="radio"
+            name="book-status"
+            id="unread-status"
+            value="Not Read"
+          />
+          <label for="unread-status">I want to read this book</label>
           <button class="form-submit-btn" type="submit" form="new-book-form">
             Add Book
           </button>
