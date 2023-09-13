@@ -30,5 +30,6 @@ for (let i = 0; i < myLibrary.length; i++) {
   Status: ${myLibrary[i].status}
   `;
   newEntryCard.appendChild(newEntryContent);
+  newEntryCard.classList.add("book");
   parentContainer.append(newEntryCard);
 }
